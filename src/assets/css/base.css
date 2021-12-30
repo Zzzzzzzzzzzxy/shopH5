@@ -1,0 +1,7 @@
+@import './normalize.css';
+
+:root {
+  --color-text: #fff;
+  --color-tint: #FF8E97;
+  --color-higt-text: #FF8E97;
+}
