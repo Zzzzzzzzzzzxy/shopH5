@@ -25,7 +25,7 @@
       <tab-control :titles="titles" ref="tabControl"></tab-control>
       <goods :goods="goods"></goods>
     </scroll>
-    <back-top @click.native="backClick" v-show="isShwoBackTop"></back-top>
+    <back-top @click.native="backClick" v-show="isShwoBackTop">瞎写</back-top>
   </div>
 </template>
 <script>
